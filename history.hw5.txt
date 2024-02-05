@@ -1,0 +1,7 @@
+   0 vi /tmp/file.txt
+   1 df -h /root/ | head -3 >> /tmp/file.txt 
+   2 chmod 321 /tmp/file.txt 
+   3 ls -al
+   4 ls -al /tmp/
+   5 history
+   6 history > history.txt
